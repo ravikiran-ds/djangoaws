@@ -28,7 +28,7 @@ SECRET_KEY = '_z$a+o1c(v@qy8_7ssvnvy@-c4%)%lo2es+ry#3n&9b6op@9hs'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','rk-speak.herokuapp.com']
 
 
 # Application definition
