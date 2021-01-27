@@ -21,12 +21,12 @@ STATIC_DIR=os.path.join(BASE_DIR,'static')
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '_z$a+o1c(v@qy8_7ssvnvy@-c4%)%lo2es+ry#3n&9b6op@9hs'
+SECRET_KEY = 
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','rk-speak.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
