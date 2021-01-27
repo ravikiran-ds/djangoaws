@@ -1,4 +1,5 @@
 var audio = new Audio();
+//console.log("hmm")
 function record() {
         var recognition = new webkitSpeechRecognition();
         recognition.lang = "en-GB";
@@ -23,10 +24,7 @@ function record() {
           }
         };
         pl()
-        console.log(playing)
+        //console.log(playing)
       }
         recognition.start();
     }
-
-
- // add this
